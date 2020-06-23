@@ -4,10 +4,8 @@
     z-index: 2;
     background-color: black;
 }
-.page-footer font-small special-color-dark pt-4{
-    background-color: yellowgreen !important;
-    font-family: 'Comic Sans MS', sans-serif;
-    font-size: 14px;
+.page-footer{
+    background-color: orange !important;
 }
 .nav-link{
     margin-left: 0px;
