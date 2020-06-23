@@ -4,7 +4,11 @@
     z-index: 2;
     background-color: black;
 }
-
+footer{
+    background-color: yellowgreen !important;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 14px;
+}
 .nav-link{
     margin-left: 0px;
     font-size: 12px;
